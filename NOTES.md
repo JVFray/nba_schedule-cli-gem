@@ -17,3 +17,9 @@ or the teams name you want to see and their schedule
 
 If the team has no games, put "No scheduled game tonight"
 
+What is a nba schedule?
+
+A schedule has a date
+A schedule has a time
+A schedule has a location
+A schedule has teams
